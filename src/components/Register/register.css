@@ -1,0 +1,49 @@
+.register{
+
+    background:url("../Img/CareerBg.jpg") no-repeat  center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 1000px;
+    margin-top: -50px;
+
+}
+.msg{
+    margin-top:5px;
+}
+
+.crd-reg{
+margin-top: 50px;
+    position: center;
+    padding: 5px;
+}
+
+.signup{
+    color: dodgerblue;
+}
+
+.btns{
+    display: inline;
+    width: 270px;
+
+}
+.btn1{
+    padding: 7px;
+    border-radius: 5px;
+    width: 135px;
+}
+.btn2{
+    padding: 7px;
+    border-radius: 5px;
+
+    width: 135px;
+}
+
+.mrg-top{
+    margin-top: 30px;
+}
+.mrg-botom{
+    margin: 5px;
+}

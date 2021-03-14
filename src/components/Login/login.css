@@ -1,0 +1,22 @@
+.login{
+
+    background:url("../Img/CareerBg.jpg") no-repeat  center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 800px;
+    margin-top: -50px;
+
+}
+.crd-lg{
+    margin-top: 50px;
+    position: center;
+    padding: 5px;
+}
+
+.lgn{
+    color: dodgerblue;
+
+}
